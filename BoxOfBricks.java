@@ -1,4 +1,6 @@
 /*
+
+
 practice:http://uva.onlinejudge.org/external/5/591.html
 coding by chun20042
 */
